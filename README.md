@@ -9,4 +9,10 @@
 * sassコンパイル
 * slimテンプレート
 
+# Middlemanの参考記事
+* Middlemanを使おう - Qiita http://qiita.com/kkotaro0111/items/6baf7cd59d3bb2e8fb24
+  * 川嶋さんのこの記事がわかりやすい
+
+
+
 
