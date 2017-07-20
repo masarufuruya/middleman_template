@@ -1,0 +1,11 @@
+/Users/furuya/.rbenv/versions/2.2.6/bin/ruby -r ./siteconf20170720-19524-1j0gf46.rb extconf.rb
+creating Makefile
+
+make "DESTDIR=" clean
+
+make "DESTDIR="
+compiling fast_blank.c
+linking shared-object fast_blank.bundle
+
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 fast_blank.bundle ./.gem.20170720-19524-1hg4jfx
